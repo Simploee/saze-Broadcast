@@ -61,7 +61,6 @@ public final class SazeChat extends JavaPlugin implements Listener {
         copyDefaultLanguageFile("fr.yml");
         copyDefaultLanguageFile("es.yml");
         copyDefaultLanguageFile("de.yml");
-        copyDefaultLanguageFile("nl.yml");
         copyDefaultLanguageFile("it.yml");
     }
 
