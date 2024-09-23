@@ -1,0 +1,13 @@
+name: sazeChat
+version: '1.0-SNAPSHOT'
+main: be.sazeChat.sazeChat.SazeChat
+api-version: '1.21'
+authors: [ Simploe ]
+description: A simple chat plugin !
+depend: [Vault]
+commands:
+  sazechat:
+    aliases: [sc]
+    description: "The main command !"
+    usage: "/sazechat <subcommand>"
+    permission: command.sazechat.use

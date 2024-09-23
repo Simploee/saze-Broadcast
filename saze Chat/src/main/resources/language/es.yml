@@ -1,0 +1,5 @@
+messages:
+  player-join: "&7[&a+&7] %player%"
+  player-quit: "&7[&c-&7] %player%"
+  mention: "&eHas sido mencionado por %player% en el chat."
+  forbidden-word: "&c¡Esa palabra está prohibida!"
