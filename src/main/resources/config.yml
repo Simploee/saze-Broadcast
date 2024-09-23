@@ -1,5 +1,5 @@
 # Configuration de la langue
-language: "en"  # Options: fr, en, es, de, nl, it
+language: "en"  # Options: fr, en, es, de, it
 
 
 banned-words:
