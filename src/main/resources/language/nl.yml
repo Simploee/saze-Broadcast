@@ -1,0 +1,5 @@
+messages:
+  player-join: "&7[&a+&7] %player%"
+  player-quit: "&7[&c-&7] %player%"
+  mention: "&eJe bent genoemd door %player% in de chat."
+  forbidden-word: "&cDeze link is niet toegestaan op deze server!"
